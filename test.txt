@@ -1,1 +1,1 @@
-Testing git again feature conflict
+Testing git again resolved conflict
